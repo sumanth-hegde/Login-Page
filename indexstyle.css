@@ -1,0 +1,8 @@
+.body
+{
+	background-image: url(index.jpg);
+	background-size: 1600px 750px;
+	background-position: absolute;
+	padding: 250px;
+	text-align: center;
+}

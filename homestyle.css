@@ -1,0 +1,13 @@
+.body
+{
+	background-image: url(home.jpg);
+	background-size: 1600px 750px;
+	background-position: absolute;
+}
+
+.align
+{
+	text-align: center;
+	padding: 250px;
+	border-spacing: 10px;
+}

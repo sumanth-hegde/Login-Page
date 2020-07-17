@@ -1,0 +1,23 @@
+How to use the code.
+
+* I have used XAMPP for MySQL and apache server. (You can download it(XAMPP) form the official website).
+
+* Use any editor (Atom, Sublime Text, Brackets, ets.)
+
+* Create a server with a name your choice (By default it is 'myproject').
+
+* You can create the MySQL server by 
+	
+	-> Open the XAMPP application.
+
+	-> Start MySQL and apache server.
+	
+	-> Go to your browser and type 'http://localhost/phpmyadmin/'.
+
+	-> There you can create the server.
+
+* If you have created the server with the name of your choice then change the server name in dblogin.php and dbregister.php file, if not then keep as it is.
+
+* Copy the files in htdocs in the XAMPP installed folder.
+
+* Then go to any brower (NOTE: MySQL and Apache server should be running) and type 'http://localhost/Folder_name/'. ('Folder_name' of your choice in htdocs). 

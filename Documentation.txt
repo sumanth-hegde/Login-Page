@@ -1,11 +1,19 @@
-# Instructions for how to interact with the code.
+Instructions for how to interact with the code.
 
 
 FRONTEND : HTML, Bootstrap and CSS.
 
-BACKEND : PHP
+BACKEND : PHP.
 
-SERVER : MySQL
+SERVER : MySQL Server.
+
+
+
+FRONTEND : HTML, Bootstrap and CSS.
+
+BACKEND : PHP.
+
+SERVER : MySQL Server.
 
 
 

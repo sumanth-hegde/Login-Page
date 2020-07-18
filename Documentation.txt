@@ -1,4 +1,12 @@
-Instructions for how to interact with the code.
+# Instructions for how to interact with the code.
+
+
+FRONTEND : HTML, Bootstrap and CSS.
+
+BACKEND : PHP
+
+SERVER : MySQL
+
 
 * I have used XAMPP for MySQL and apache server. (You can download it(XAMPP) form the official website).
 

@@ -1,4 +1,4 @@
-How to use the code.
+Instructions for how to use the code.
 
 * I have used XAMPP for MySQL and apache server. (You can download it(XAMPP) form the official website).
 
